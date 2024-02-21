@@ -13,7 +13,7 @@
   "dependencies": {
     "@fontsource/poppins": "^4.5.9",
     "autosuggest-highlight": "^3.1.1",
-    "axios": "^0.21.1",
+    "axios": "^0.28.0",
     "bootstrap": "^4.3.1",
     "connected-react-router": "^6.4.0",
     "dompurify": "^2.3.8",
@@ -69,6 +69,6 @@
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.2",
     "webpack-merge": "^4.2.1",
-    "webpack-pwa-manifest": "^4.0.0"
+    "webpack-pwa-manifest": "^4.3.0"
   }
 }
